@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "hap"
+  site-url: "https://ngenze.github.io/hap"
+  description: "Highly avanced project"
+  repo-branch: main
+  repo-url: "https://github.com/ngenze/hap"
